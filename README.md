@@ -26,7 +26,7 @@ echo 'end'
 
 -------
 
-- アプリとして２段階認証を設定する必要がある。詳細は、[Pythonのgdataで認証が成功しない](http://mamansoft.net/blog/python%E3%81%AEgdata%E3%81%A7%E8%AA%8D%E8%A8%BC%E3%81%8C%E6%88%90%E5%8A%9F%E3%81%97%E3%81%AA%E3%81%84/)を参考。
+アプリとして２段階認証を設定する必要がある。詳細は、[Pythonのgdataで認証が成功しない](http://mamansoft.net/blog/python%E3%81%AEgdata%E3%81%A7%E8%AA%8D%E8%A8%BC%E3%81%8C%E6%88%90%E5%8A%9F%E3%81%97%E3%81%AA%E3%81%84/)を参考。
 -------
 
 
